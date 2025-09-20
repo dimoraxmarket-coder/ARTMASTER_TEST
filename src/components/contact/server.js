@@ -44,5 +44,5 @@ app.post("/send", async (req, res) => {
 });
 
 app.listen(3001, () => {
-  console.log("🚀 Backend server rulează pe http://localhost:3001");
+  console.log("🚀 Backend server rulează pe https://cheerful-marshmallow-37a0cc.netlify.app/");
 });
